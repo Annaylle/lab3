@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+    color: blue;
+}
+.color-red {
+    color: red;
+}
+.the-heading {
+    color: purple;
+    border: 1px solid blue;
+}
